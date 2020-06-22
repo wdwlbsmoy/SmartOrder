@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="" />
+    <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action/AppAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/AppAction.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +20,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/action/AppAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="288">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#270#503#0" />
+                <element signature="e#539#1001#0" />
+                <element signature="e#1035#1243#0" />
+                <element signature="e#1276#1413#0" />
+                <element signature="e#1449#1615#0" />
+                <element signature="e#1653#1775#0" />
+                <element signature="e#1802#1834#0" />
+                <element signature="e#1876#1972#0" />
+                <element signature="e#2015#2125#0" />
+                <element signature="e#2151#2252#0" />
+                <element signature="e#2308#2390#0" />
+                <element signature="e#2453#2544#0" />
+                <element signature="e#2587#2628#0" />
+                <element signature="e#2675#2724#0" />
+                <element signature="e#2815#2974#0" />
+                <element signature="e#3020#3094#0" />
+                <element signature="e#3122#3170#0" />
               </folding>
             </state>
           </provider>
@@ -28,17 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://C:/Python/Python36/Lib/site-packages/poco/drivers/android/uiautomation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4680">
-              <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+            <state relative-caret-position="202">
+              <caret line="149" column="29" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python/Python36/Lib/site-packages/poco/pocofw.py">
+        <entry file="file://C:/Python/Python36/Lib/site-packages/poco/agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7704">
-              <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+            <state relative-caret-position="129">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -74,15 +95,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -97,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action/PageAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7956">
+            <state relative-caret-position="617">
               <caret line="229" column="37" selection-start-line="229" selection-start-column="37" selection-end-line="229" selection-end-column="37" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -123,6 +135,9 @@
       <find>ST</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -147,18 +162,20 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="649" />
-    <option name="y" value="70" />
-    <option name="width" value="1519" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-6" />
+    <option name="y" value="133" />
+    <option name="width" value="1620" />
+    <option name="height" value="799" />
   </component>
   <component name="ProjectId" id="1aVfJXEemESbMgmhiFX7tvMaVpx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,7 +212,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -204,8 +220,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../cook/Effective_python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frist" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -362,7 +379,8 @@
       <workItem from="1592608308667" duration="733000" />
       <workItem from="1592644626318" duration="26212000" />
       <workItem from="1592741770811" duration="94000" />
-      <workItem from="1592780149554" duration="286000" />
+      <workItem from="1592780149554" duration="1115000" />
+      <workItem from="1592781437132" duration="2682000" />
     </task>
     <servers />
   </component>
@@ -372,14 +390,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75004000" />
+    <option name="totallyTimeSpent" value="78515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-6" y="133" width="1620" height="799" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5787349" visible="true" weight="0.20308483" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.42126516" side_tool="true" visible="true" weight="0.20308483" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57593983" visible="true" weight="0.20512821" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.42406014" side_tool="true" visible="true" weight="0.20512821" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
@@ -571,27 +589,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/action/AppAction.py">
+    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/drivers/android/uiautomation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4680">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/pocofw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7704">
-          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        <state relative-caret-position="617">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -619,10 +620,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
+    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        <state relative-caret-position="617">
+          <caret line="229" column="37" selection-start-line="229" selection-start-column="37" selection-end-line="229" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -636,12 +640,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
+    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/agent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7956">
-          <caret line="229" column="37" selection-start-line="229" selection-start-column="37" selection-end-line="229" selection-end-column="37" />
+        <state relative-caret-position="129">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/pocofw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#15#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/drivers/android/uiautomation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="149" column="29" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/AppAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#270#503#0" />
+            <element signature="e#539#1001#0" />
+            <element signature="e#1035#1243#0" />
+            <element signature="e#1276#1413#0" />
+            <element signature="e#1449#1615#0" />
+            <element signature="e#1653#1775#0" />
+            <element signature="e#1802#1834#0" />
+            <element signature="e#1876#1972#0" />
+            <element signature="e#2015#2125#0" />
+            <element signature="e#2151#2252#0" />
+            <element signature="e#2308#2390#0" />
+            <element signature="e#2453#2544#0" />
+            <element signature="e#2587#2628#0" />
+            <element signature="e#2675#2724#0" />
+            <element signature="e#2815#2974#0" />
+            <element signature="e#3020#3094#0" />
+            <element signature="e#3122#3170#0" />
           </folding>
         </state>
       </provider>

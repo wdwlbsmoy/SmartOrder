@@ -117,8 +117,15 @@ def findAllTarget(v):
     return find_all(v)
 
 '''poco封装函数列表'''
-poco = AndroidUiautomationPoco()
-poco.swipe()
+
+def generatePoco(sn=None,use_airtest_input=True, screenshot_each_action=False):
+    if sn is None:
+        dev = None
+    else:
+        dev = Android(sn)  #指定sn选择目标设备
+    poco = AndroidUiautomationPoco(device=dev,use_airtest_input=use_airtest_input,
+                                   screenshot_each_action=screenshot_each_action)
+    return poco
 
 if __name__ == '__main__':
     adb = ADB()
