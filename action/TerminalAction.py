@@ -7,6 +7,6 @@ def selectTerminalFactory(runScriptJson):
     if not isinstance(runScriptJson,dict):
         return None
     TerminalType = runScriptJson.get('orderTerminal')
-    return orderTerminalDict.get(TerminalType)
+    return orderTerminalDict.get(TerminalType)(runScriptJson)
 
 

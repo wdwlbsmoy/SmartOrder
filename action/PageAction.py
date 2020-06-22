@@ -218,7 +218,6 @@ def getCookie(*args):
 
 def setCookie(name='m',*args):
     global driver
-    print(name)
     if name == 'm':
         cookieFilePath = mcookieFilePath
     else:

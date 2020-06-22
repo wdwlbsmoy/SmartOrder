@@ -110,7 +110,7 @@ def PCExecuteTest(jsonDict):
         # 打印详细的异常堆栈信息
         debug(traceback.print_exc())
     finally:
-        eval("close_browser()")
+        # eval("close_browser()")
         return returnValue
 
 if __name__ == '__main__':

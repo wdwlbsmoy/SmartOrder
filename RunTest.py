@@ -1,5 +1,5 @@
 from testScripts.ExecuteTest import PCExecuteTest
-from airtest.core.android.adb import ADB
+from action.TerminalAction import selectTerminalFactory
 
 if __name__ == '__main__':
     #选择商品方式：linkType   1:业务方式  2:链接方式
@@ -19,7 +19,7 @@ if __name__ == '__main__':
     runScriptJson = {"linkType":"2","promotionLinkType":"1","shopType":"1",
                      "orderTerminal":"1","operationType":"1","builtInType":"sdk",
                      "desType":"getcopon","sdkType":"unionSdk","orderplatform":"android",
-                     "bitType":"32","orderBusinessType":"2","orderCommodityType":"3"}
-    orderId = PCExecuteTest(runScriptJson)
+                     "bitType":"32","orderBusinessType":"2","orderCommodityType":"4"}
+    orderId = selectTerminalFactory(runScriptJson)
     print("订单号为：%s" %orderId)
 
