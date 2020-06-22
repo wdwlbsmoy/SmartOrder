@@ -1,5 +1,4 @@
-from testScripts.ExecuteTest import PCExecuteTest
-from action.TerminalAction import selectTerminalFactory
+from testScripts.TerminalSelect import selectTerminalFactory
 
 if __name__ == '__main__':
     #选择商品方式：linkType   1:业务方式  2:链接方式

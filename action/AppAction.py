@@ -81,6 +81,13 @@ def touchTarget(v,times=1,**kwargs):
     #触摸点击设备屏幕中指定位置（Template instance or absolute coordinates (x, y)）,返回坐标位置
     return touch(v, times=1, **kwargs)
 
+def sleep(seconds):
+    #等待seconds时间，默认单位为秒
+    try:
+        time.sleep(int(seconds))
+    except Exception as err:
+        raise err
+
 def doubleClick(v):
     #对设备屏幕中的指定位置进行双击（Template instance or absolute coordinates (x, y)），并返回坐标位置
     return double_click(v)
@@ -100,6 +107,10 @@ def keyBoardInput(keyname,**kwargs):
 def textInput(text,enter=True,**kwargs):
     #对屏幕控件输入文本内容
     text(text, enter=True, **kwargs)
+
+def waitTarget(v, timeout=None, interval=0.5, intervalfunc=None):
+    #等待屏幕上指定目标出现
+    return wait(v, timeout=timeout, interval=interval, intervalfunc=intervalfunc)
 
 def waitAndTouch(v, timeout=None, interval=0.5, intervalfunc=None,times=1,**kwargs):
     #等待目标出现并触摸点击，默认超时时间为20秒，每隔0.5秒查看一次
