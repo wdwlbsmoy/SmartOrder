@@ -5,7 +5,6 @@ from poco.drivers.android.uiautomation import AndroidUiautomationPoco
 from airtest.core.android import Android
 
 adb = None
-poco = None
 
 '''airtest图像识别封装函数列表'''
 
