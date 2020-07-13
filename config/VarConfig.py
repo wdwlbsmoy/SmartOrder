@@ -35,6 +35,16 @@ testStep_testResult = 8
 testStep_errorInfo = 9
 testStep_errorPic = 10
 
+#要运行的终端序列号
+TerminalSn = None
+TerminalexecuteScene = '1' #呼起app的环境，1表示从微信环境，2表示从QQ环境，3表示从浏览器环境
+TerminalFilePath = parentDirPath + "\\config\\mobileDevices.xlsx"
+terminal_ser = 2
+terminal_platform = 3
+terminal_bittype = 4
+terminal_manufacturer = 5
+terminal_isonline = 6
+
 #业务或链接字典
 orderBusinessDict = {'1':'场景集合页','2':'推荐集合页','3':'h5首购','4':'红人小店','5':'京享礼金',
                      '6':'站内达人文章','7':'京享红包','8':'红包密令','9':'奖励活动'}

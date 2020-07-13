@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/terminalDeal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/genQrcode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RunTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/action/AppAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/AppAction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/TerminalAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/TerminalSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/VarConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getLastCookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/getLastCookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getTwoCookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/getTwoCookies.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/syslog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/syslog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587477113784.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483002802.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483141341.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483189522.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/回退.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/确认离开.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testScripts/ExecuteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/ExecuteTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testScripts/TerminalSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/TerminalSelect.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,25 +39,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action/AppAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="86" column="32" lean-forward="true" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+            <state relative-caret-position="229">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#270#503#0" />
-                <element signature="e#539#1001#0" />
-                <element signature="e#1035#1243#0" />
-                <element signature="e#1276#1413#0" />
-                <element signature="e#1449#1615#0" />
-                <element signature="e#1653#1775#0" />
-                <element signature="e#1802#1834#0" />
-                <element signature="e#1876#1972#0" />
-                <element signature="e#2151#2252#0" />
-                <element signature="e#2308#2390#0" />
-                <element signature="e#2453#2544#0" />
-                <element signature="e#2587#2628#0" />
-                <element signature="e#2675#2724#0" />
-                <element signature="e#3020#3094#0" />
-                <element signature="e#3122#3170#0" />
               </folding>
             </state>
           </provider>
@@ -54,19 +52,10 @@
         <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
+                <element signature="e#0#67#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RunTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="86" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="86" />
             </state>
           </provider>
         </entry>
@@ -74,21 +63,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="139" column="12" lean-forward="true" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+            <state relative-caret-position="2855">
+              <caret line="300" column="34" lean-forward="true" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#4391#4866#0" />
+                <element signature="e#290#484#0" />
+                <element signature="e#394#1808#0" />
+                <element signature="e#2176#4148#0" />
+                <element signature="e#5773#7038#0" />
+                <element signature="e#7080#7460#0" />
+                <element signature="e#8461#9839#0" />
+                <element signature="e#10325#14215#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
+        <entry file="file://$PROJECT_DIR$/util/Log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="48" column="17" selection-start-line="48" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,11 +94,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action/PageAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
+            <state relative-caret-position="229">
+              <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3384">
+              <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RunTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -120,6 +145,8 @@
       <find>click</find>
       <find>touch</find>
       <find>ST</find>
+      <find>testStep_testResult</find>
+      <find>excelObj</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,33 +155,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/testScripts/TestSendMailWithAttchment.py" />
-        <option value="$PROJECT_DIR$/testScripts/ExecuteScriptTest.py" />
-        <option value="$PROJECT_DIR$/config/Logger.conf" />
-        <option value="$PROJECT_DIR$/getCookies.py" />
-        <option value="$PROJECT_DIR$/getTwoCookies.py" />
-        <option value="$PROJECT_DIR$/config/cookies.txt" />
         <option value="$PROJECT_DIR$/getLastCookie.py" />
-        <option value="$PROJECT_DIR$/config/webcookies" />
-        <option value="$PROJECT_DIR$/ttt.py" />
-        <option value="$PROJECT_DIR$/util/ObjectMap.py" />
-        <option value="$PROJECT_DIR$/action/airtestDocment.txt" />
-        <option value="$PROJECT_DIR$/action/TerminalAction.py" />
+        <option value="$PROJECT_DIR$/getTwoCookies.py" />
+        <option value="$PROJECT_DIR$/terminalDeal.py" />
         <option value="$PROJECT_DIR$/action/PageAction.py" />
         <option value="$PROJECT_DIR$/RunTest.py" />
-        <option value="$PROJECT_DIR$/config/webcookies.txt" />
-        <option value="$PROJECT_DIR$/config/VarConfig.py" />
-        <option value="$PROJECT_DIR$/testScripts/ExecuteTest.py" />
         <option value="$PROJECT_DIR$/action/AppAction.py" />
+        <option value="$PROJECT_DIR$/config/VarConfig.py" />
+        <option value="$PROJECT_DIR$/util/genQrcode.py" />
+        <option value="$PROJECT_DIR$/testScripts/TerminalSelect.py" />
+        <option value="$PROJECT_DIR$/testScripts/ExecuteTest.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-5" />
-    <option name="y" value="280" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="26" />
+    <option name="y" value="30" />
     <option name="width" value="1620" />
-    <option name="height" value="762" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectId" id="1aVfJXEemESbMgmhiFX7tvMaVpx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,20 +212,7 @@
               <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
               <item name="webtest" type="462c0819:PsiDirectoryNode" />
               <item name="testData" type="462c0819:PsiDirectoryNode" />
-              <item name="mobileData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="testData" type="462c0819:PsiDirectoryNode" />
-              <item name="mobileData" type="462c0819:PsiDirectoryNode" />
-              <item name="qqScene" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="testData" type="462c0819:PsiDirectoryNode" />
-              <item name="pcData" type="462c0819:PsiDirectoryNode" />
+              <item name="commonData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
@@ -224,6 +228,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -234,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../gloryroad_learning/djangoLearning/my_bbs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -256,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RunTest">
+  <component name="RunManager" selected="Python.genQrcode">
     <configuration name="AppAction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordsFrameWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,6 +276,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/action/AppAction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExecuteTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KeyWordsFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testScripts/ExecuteTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,7 +328,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="getLastCookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="genQrcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="KeyWordsFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/genQrcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="terminalDeal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="KeyWordsFrameWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,60 +363,22 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getLastCookie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/terminalDeal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="getTwoCookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KeyWordsFrameWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getTwoCookies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in D:/John/work/airtestLearning/webtest/ttt.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="KeyWordsFrameWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/ttt.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.genQrcode" />
         <item itemvalue="Python.RunTest" />
+        <item itemvalue="Python.terminalDeal" />
+        <item itemvalue="Python.ExecuteTest" />
         <item itemvalue="Python.AppAction" />
-        <item itemvalue="Python tests.pytest in D:/John/work/airtestLearning/webtest/ttt.py" />
-        <item itemvalue="Python.getLastCookie" />
-        <item itemvalue="Python.getTwoCookies" />
       </list>
     </recent_temporary>
   </component>
@@ -399,6 +410,18 @@
       <workItem from="1592741770811" duration="94000" />
       <workItem from="1592780149554" duration="1115000" />
       <workItem from="1592781437132" duration="18137000" />
+      <workItem from="1592834728126" duration="3820000" />
+      <workItem from="1592887238767" duration="5564000" />
+      <workItem from="1592916185770" duration="23000" />
+      <workItem from="1592969441265" duration="4908000" />
+      <workItem from="1592980905810" duration="2254000" />
+      <workItem from="1593082800339" duration="7034000" />
+      <workItem from="1593127846946" duration="4458000" />
+      <workItem from="1593142581924" duration="13116000" />
+      <workItem from="1593213159013" duration="21906000" />
+      <workItem from="1593730892109" duration="548000" />
+      <workItem from="1594333769120" duration="51000" />
+      <workItem from="1594542745414" duration="16605000" />
     </task>
     <servers />
   </component>
@@ -408,18 +431,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93970000" />
+    <option name="totallyTimeSpent" value="63718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="280" width="1620" height="762" extended-state="0" />
+    <frame x="26" y="30" width="1620" height="738" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5302548" visible="true" weight="0.14615385" />
-      <window_info id="Structure" order="1" sideWeight="0.46974522" side_tool="true" visible="true" weight="0.14615385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6654275" visible="true" weight="0.19358975" />
+      <window_info id="Structure" order="1" sideWeight="0.3345725" side_tool="true" visible="true" weight="0.19358975" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21337579" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10927153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,231 +472,133 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="170" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587476637216" />
-    <state width="1478" height="67" key="GridCell.Tab.0.bottom" timestamp="1591535678688">
+    <state width="1478" height="195" key="GridCell.Tab.0.bottom" timestamp="1593002567329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
-    <state width="1478" height="67" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591535678688" />
-    <state width="1478" height="67" key="GridCell.Tab.0.center" timestamp="1591535678688">
+    <state width="1478" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
+    <state width="1478" height="195" key="GridCell.Tab.0.center" timestamp="1593002567329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
-    <state width="1478" height="67" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591535678688" />
-    <state width="1478" height="67" key="GridCell.Tab.0.left" timestamp="1591535678688">
+    <state width="1478" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
+    <state width="1478" height="195" key="GridCell.Tab.0.left" timestamp="1593002567329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
-    <state width="1478" height="67" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591535678688" />
-    <state width="1478" height="67" key="GridCell.Tab.0.right" timestamp="1591535678688">
+    <state width="1478" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
+    <state width="1478" height="195" key="GridCell.Tab.0.right" timestamp="1593002567329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
-    <state width="1478" height="67" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591535678688" />
-    <state x="336" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1587084391071">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1478" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
+    <state x="403" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1592980909767">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="336" y="240" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587084391071" />
+    <state x="403" y="291" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592980909767" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1586674696400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/webtest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1592812861866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$ExecuteTest.coverage" NAME="ExecuteTest Coverage Results" MODIFIED="1592466390578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1586821238263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
+    <SUITE FILE_PATH="coverage/webtest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1593260156231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$VarConfig.coverage" NAME="VarConfig Coverage Results" MODIFIED="1592835488444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/webtest$ExecuteTest.coverage" NAME="ExecuteTest Coverage Results" MODIFIED="1593222674710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
     <SUITE FILE_PATH="coverage/webtest$test.coverage" NAME="test Coverage Results" MODIFIED="1591538156371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1586821238263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1586686811831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/webtest$terminalDeal.coverage" NAME="terminalDeal Coverage Results" MODIFIED="1593250704836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1586686334707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/webtest$genQrcode.coverage" NAME="genQrcode Coverage Results" MODIFIED="1594565610062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/webtest$pytest_in_ttt_py.coverage" NAME="pytest in ttt.py Coverage Results" MODIFIED="1592693755559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsTest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1591535354255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$AppAction.coverage" NAME="AppAction Coverage Results" MODIFIED="1592728357357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/webtest$AppAction.coverage" NAME="AppAction Coverage Results" MODIFIED="1593141618787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1586826894446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$getLastCookie.coverage" NAME="getLastCookie Coverage Results" MODIFIED="1592553396217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$getLastCookie.coverage" NAME="getLastCookie Coverage Results" MODIFIED="1593083825308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1586688893302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/KeyWordsTest$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1591535678681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
-    <SUITE FILE_PATH="coverage/webtest$getTwoCookies.coverage" NAME="getTwoCookies Coverage Results" MODIFIED="1592538410380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$getTwoCookies.coverage" NAME="getTwoCookies Coverage Results" MODIFIED="1593090156846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsTest$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1586930515872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-7/21-40-39-112154.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/Mail126TestLogfile.log" />
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-18/08-57-36-266007.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-18/08-53-48-335128.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-18/08-53-47-795763.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-18/09-26-47-462327.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/Logger.conf">
+    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="-86">
+          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/site-packages/matplotlib/offsetbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="754" column="8" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getLastCookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/getTwoCookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        <state relative-caret-position="250">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/webcookies" />
-    <entry file="file://$PROJECT_DIR$/config/cookies.txt">
+    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-27/18-00-15-267003.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-27/17-50-37-712842.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terminalDeal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="86">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-19/16-11-10-163658.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-19/16-14-52-073024.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/syslog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18943" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ttt.py" />
-    <entry file="file://$PROJECT_DIR$/getLastCookie.py">
+    <entry file="file://$PROJECT_DIR$/util/DirAndTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/ObjectMap.py">
+    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/airtestDocment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4356">
-          <caret line="121" column="105" selection-start-line="121" selection-start-column="105" selection-end-line="121" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="e#24#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/linux/linux.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/pocofw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding>
-            <element signature="e#15#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/drivers/android/uiautomation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="149" column="29" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="86" column="4" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+        <state relative-caret-position="3384">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="457" column="4" selection-start-line="457" selection-start-column="4" selection-end-line="457" selection-end-column="4" />
-          <folding>
-            <element signature="e#76#85#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="617">
+          <caret line="269" column="40" selection-start-line="269" selection-start-column="40" selection-end-line="269" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/android/adb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="1116" column="12" selection-start-line="1116" selection-start-column="8" selection-end-line="1116" selection-end-column="16" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/log/syslog.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/poco/agent.py">
+    <entry file="file://$PROJECT_DIR$/config/Logger.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/webcookies.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="86" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="48" column="17" selection-start-line="48" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="785">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/action/PageAction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
+        <state relative-caret-position="229">
+          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -682,36 +607,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/action/AppAction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="86" column="32" lean-forward="true" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+        <state relative-caret-position="229">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#270#503#0" />
-            <element signature="e#539#1001#0" />
-            <element signature="e#1035#1243#0" />
-            <element signature="e#1276#1413#0" />
-            <element signature="e#1449#1615#0" />
-            <element signature="e#1653#1775#0" />
-            <element signature="e#1802#1834#0" />
-            <element signature="e#1876#1972#0" />
-            <element signature="e#2151#2252#0" />
-            <element signature="e#2308#2390#0" />
-            <element signature="e#2453#2544#0" />
-            <element signature="e#2587#2628#0" />
-            <element signature="e#2675#2724#0" />
-            <element signature="e#3020#3094#0" />
-            <element signature="e#3122#3170#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python36/Lib/site-packages/MyQR/myqr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3204">
+          <caret line="21" column="134" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="134" />
+          <folding>
+            <element signature="e#48#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/genQrcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="139" column="12" lean-forward="true" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+        <state relative-caret-position="2855">
+          <caret line="300" column="34" lean-forward="true" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#4391#4866#0" />
+            <element signature="e#290#484#0" />
+            <element signature="e#394#1808#0" />
+            <element signature="e#2176#4148#0" />
+            <element signature="e#5773#7038#0" />
+            <element signature="e#7080#7460#0" />
+            <element signature="e#8461#9839#0" />
+            <element signature="e#10325#14215#0" />
           </folding>
         </state>
       </provider>

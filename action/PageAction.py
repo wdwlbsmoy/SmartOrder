@@ -63,7 +63,7 @@ def input_string(locationType, locatorExpression, inputContent):
     except Exception as err:
         raise err
 
-def click(locationType, locatorExpression, *arg):
+def click_pc(locationType, locatorExpression, *arg):
     # 点击页面元素
     global driver
     try:

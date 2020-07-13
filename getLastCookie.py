@@ -14,7 +14,3 @@ with open(r'D:\John\work\airtestLearning\before.txt') as fp:
                 if cc[0] not in [item[0] for item in before_list]:
                     print(cc[1])
                     nfp.write(str(cc[1])+'\n')
-            # for line in afp:
-            #     ll = eval(line)
-            #     for l in ll:
-            #         print(l)

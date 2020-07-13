@@ -16,9 +16,10 @@ if __name__ == '__main__':
     #orderBusinessType    1:场景集合页  2:推荐集合页  3:h5首购  4:红人小店  5:京享礼金  6:站内达人文章  7:京享红包  8:红包密令  9:奖励活动
     #orderCommodityType   1:普通商品  2:秒杀商品  3:拼购商品  4:二合一商品  5:sem推广_普通商品  6:店铺商品  7:活动商品  8:其他商品
     runScriptJson = {"linkType":"2","promotionLinkType":"1","shopType":"1",
-                     "orderTerminal":"1","operationType":"1","builtInType":"sdk",
+                     "orderTerminal":"4","operationType":"1","builtInType":"sdk",
                      "desType":"getcopon","sdkType":"unionSdk","orderplatform":"android",
-                     "bitType":"32","orderBusinessType":"2","orderCommodityType":"4"}
+                     "bitType":"32","orderBusinessType":"2","orderCommodityType":"1"}
+    # print(getTerminalSN(**runScriptJson))
     orderId = selectTerminalFactory(runScriptJson)
     print("订单号为：%s" %orderId)
 
