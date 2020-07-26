@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/terminalDeal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/genQrcode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RunTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/AppAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/AppAction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action/PageAction.py" beforeDir="false" afterPath="$PROJECT_DIR$/action/PageAction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/VarConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getLastCookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/getLastCookie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getTwoCookies.py" beforeDir="false" afterPath="$PROJECT_DIR$/getTwoCookies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/syslog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/syslog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587477113784.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483002802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483141341.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/tpl1587483189522.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/回退.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/确认离开.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testScripts/ExecuteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/ExecuteTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testScripts/TerminalSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/TerminalSelect.py" afterDir="false" />
     </list>
@@ -39,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action/AppAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="-244">
               <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -48,32 +30,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            <state relative-caret-position="144">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#0#67#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#3083#3107#0" />
+                <element signature="e#3153#3572#0" />
+                <element signature="e#3611#5019#0" />
+                <element signature="e#5062#5573#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2855">
-              <caret line="300" column="34" lean-forward="true" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+            <state relative-caret-position="720">
+              <caret line="128" column="40" selection-start-line="128" selection-start-column="40" selection-end-line="128" selection-end-column="40" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#290#484#0" />
-                <element signature="e#394#1808#0" />
-                <element signature="e#2176#4148#0" />
-                <element signature="e#5773#7038#0" />
-                <element signature="e#7080#7460#0" />
-                <element signature="e#8461#9839#0" />
-                <element signature="e#10325#14215#0" />
+                <element signature="e#648#2107#0" />
+                <element signature="e#2225#4147#0" />
+                <element signature="e#4204#5753#0" />
+                <element signature="e#14992#14996#0" />
               </folding>
             </state>
           </provider>
@@ -83,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/util/Log.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -94,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/action/PageAction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="6084">
               <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
@@ -115,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="216">
+              <caret line="39" column="7" selection-start-line="39" selection-end-line="39" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -124,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RunTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+            <state relative-caret-position="404">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -147,6 +130,8 @@
       <find>ST</find>
       <find>testStep_testResult</find>
       <find>excelObj</find>
+      <find>TerminalSn</find>
+      <find>jsonDict</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,16 +146,16 @@
         <option value="$PROJECT_DIR$/action/PageAction.py" />
         <option value="$PROJECT_DIR$/RunTest.py" />
         <option value="$PROJECT_DIR$/action/AppAction.py" />
-        <option value="$PROJECT_DIR$/config/VarConfig.py" />
         <option value="$PROJECT_DIR$/util/genQrcode.py" />
-        <option value="$PROJECT_DIR$/testScripts/TerminalSelect.py" />
+        <option value="$PROJECT_DIR$/config/VarConfig.py" />
         <option value="$PROJECT_DIR$/testScripts/ExecuteTest.py" />
+        <option value="$PROJECT_DIR$/testScripts/TerminalSelect.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="26" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-279" />
+    <option name="y" value="39" />
     <option name="width" value="1620" />
     <option name="height" value="738" />
   </component>
@@ -181,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -422,6 +407,9 @@
       <workItem from="1593730892109" duration="548000" />
       <workItem from="1594333769120" duration="51000" />
       <workItem from="1594542745414" duration="16605000" />
+      <workItem from="1594654033766" duration="129000" />
+      <workItem from="1595168309944" duration="685000" />
+      <workItem from="1595767851233" duration="6133000" />
     </task>
     <servers />
   </component>
@@ -431,14 +419,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63718000" />
+    <option name="totallyTimeSpent" value="70665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="26" y="30" width="1620" height="738" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6654275" visible="true" weight="0.19358975" />
-      <window_info id="Structure" order="1" sideWeight="0.3345725" side_tool="true" visible="true" weight="0.19358975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6603774" visible="true" weight="0.13753213" />
+      <window_info id="Structure" order="1" sideWeight="0.33962265" side_tool="true" visible="true" weight="0.13753213" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -571,13 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3384">
-          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
@@ -592,50 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="785">
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/AppAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/Log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -659,29 +595,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
+    <entry file="file://$PROJECT_DIR$/util/Log.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="180">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding>
-            <element signature="e#0#67#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6084">
+          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3384">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RunTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/AppAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="39" column="7" selection-start-line="39" selection-end-line="39" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2855">
-          <caret line="300" column="34" lean-forward="true" selection-start-line="300" selection-start-column="34" selection-end-line="300" selection-end-column="34" />
+        <state relative-caret-position="720">
+          <caret line="128" column="40" selection-start-line="128" selection-start-column="40" selection-end-line="128" selection-end-column="40" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#290#484#0" />
-            <element signature="e#394#1808#0" />
-            <element signature="e#2176#4148#0" />
-            <element signature="e#5773#7038#0" />
-            <element signature="e#7080#7460#0" />
-            <element signature="e#8461#9839#0" />
-            <element signature="e#10325#14215#0" />
+            <element signature="e#648#2107#0" />
+            <element signature="e#2225#4147#0" />
+            <element signature="e#4204#5753#0" />
+            <element signature="e#14992#14996#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#3083#3107#0" />
+            <element signature="e#3153#3572#0" />
+            <element signature="e#3611#5019#0" />
+            <element signature="e#5062#5573#0" />
           </folding>
         </state>
       </provider>

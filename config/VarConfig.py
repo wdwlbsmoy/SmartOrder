@@ -35,9 +35,9 @@ testStep_testResult = 8
 testStep_errorInfo = 9
 testStep_errorPic = 10
 
-#要运行的终端序列号
+#要运行的移动终端序列号
 TerminalSn = None
-TerminalexecuteScene = '1' #呼起app的环境，1表示从微信环境，2表示从QQ环境，3表示从浏览器环境
+appDict = {'jdapp':'','jsapp':'','qq':'','wx':'','bw':''}  #定义app字典，value为app的name
 TerminalFilePath = parentDirPath + "\\config\\mobileDevices.xlsx"
 terminal_ser = 2
 terminal_platform = 3
