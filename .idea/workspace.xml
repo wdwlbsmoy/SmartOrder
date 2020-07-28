@@ -3,11 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/VarConfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testScripts/ExecuteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/ExecuteTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testScripts/TerminalSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/TerminalSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/mobileDevices.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/config/mobileDevices.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/commonData/public_action.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/commonData/public_action.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderBusinessAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/qqScene/orderCommodityAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/wchatScene/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/wchatScene/orderBusinessAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/mobileData/wchatScene/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/mobileData/wchatScene/orderCommodityAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/orderAction - 副本.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/orderAction - 副本.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/orderAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/orderAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderCommodityAction.xlsx" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,105 +21,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="KeyWordsFrameWork" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/AppAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-244">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <element signature="e#3083#3107#0" />
-                <element signature="e#3153#3572#0" />
-                <element signature="e#3611#5019#0" />
-                <element signature="e#5062#5573#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="128" column="40" selection-start-line="128" selection-start-column="40" selection-end-line="128" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <element signature="e#648#2107#0" />
-                <element signature="e#2225#4147#0" />
-                <element signature="e#4204#5753#0" />
-                <element signature="e#14992#14996#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/Log.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6084">
-              <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3384">
-              <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="39" column="7" selection-start-line="39" selection-end-line="39" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RunTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,87 +42,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/getLastCookie.py" />
-        <option value="$PROJECT_DIR$/getTwoCookies.py" />
-        <option value="$PROJECT_DIR$/terminalDeal.py" />
-        <option value="$PROJECT_DIR$/action/PageAction.py" />
-        <option value="$PROJECT_DIR$/RunTest.py" />
-        <option value="$PROJECT_DIR$/action/AppAction.py" />
-        <option value="$PROJECT_DIR$/util/genQrcode.py" />
-        <option value="$PROJECT_DIR$/config/VarConfig.py" />
-        <option value="$PROJECT_DIR$/testScripts/ExecuteTest.py" />
-        <option value="$PROJECT_DIR$/testScripts/TerminalSelect.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-279" />
-    <option name="y" value="39" />
-    <option name="width" value="1620" />
-    <option name="height" value="738" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1aVfJXEemESbMgmhiFX7tvMaVpx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="testData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="testData" type="462c0819:PsiDirectoryNode" />
-              <item name="commonData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="testScripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webtest" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -224,27 +56,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../gloryroad_learning/djangoLearning/my_bbs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\John\work\airtestLearning\webtest\testData\pcData" />
       <recent name="D:\John\work\airtestLearning\webtest\testScripts" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.genQrcode">
     <configuration name="AppAction" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -410,6 +231,7 @@
       <workItem from="1594654033766" duration="129000" />
       <workItem from="1595168309944" duration="685000" />
       <workItem from="1595767851233" duration="6133000" />
+      <workItem from="1595851651733" duration="2779000" />
     </task>
     <servers />
   </component>
@@ -417,35 +239,6 @@
     <history-entry file="pytest_in_ttt_py - 2020.06.21 at 06h 56m 24s.xml">
       <configuration name="pytest in ttt.py" configurationId="tests" />
     </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70665000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6603774" visible="true" weight="0.13753213" />
-      <window_info id="Structure" order="1" sideWeight="0.33962265" side_tool="true" visible="true" weight="0.13753213" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10927153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -455,10 +248,11 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="170" key="FileChooserDialogImpl" timestamp="1587476637216">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="632" y="260" key="FileChooserDialogImpl" timestamp="1595914057538">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="170" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587476637216" />
+    <state x="632" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595914057538" />
     <state width="1478" height="195" key="GridCell.Tab.0.bottom" timestamp="1593002567329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -479,200 +273,38 @@
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
     <state width="1478" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
+    <state x="238" y="235" key="SettingsEditor" timestamp="1595914076437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="238" y="235" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595914076437" />
     <state x="403" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1592980909767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="336" y="240" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587084391071" />
     <state x="403" y="291" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592980909767" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595914100151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595914100151" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1586674696400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/webtest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1593260156231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$VarConfig.coverage" NAME="VarConfig Coverage Results" MODIFIED="1592835488444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
-    <SUITE FILE_PATH="coverage/webtest$ExecuteTest.coverage" NAME="ExecuteTest Coverage Results" MODIFIED="1593222674710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
-    <SUITE FILE_PATH="coverage/webtest$test.coverage" NAME="test Coverage Results" MODIFIED="1591538156371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1586821238263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1586686811831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/webtest$terminalDeal.coverage" NAME="terminalDeal Coverage Results" MODIFIED="1593250704836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1586686334707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/webtest$genQrcode.coverage" NAME="genQrcode Coverage Results" MODIFIED="1594565610062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/webtest$pytest_in_ttt_py.coverage" NAME="pytest in ttt.py Coverage Results" MODIFIED="1592693755559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KeyWordsTest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1591535354255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$AppAction.coverage" NAME="AppAction Coverage Results" MODIFIED="1593141618787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1586826894446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/webtest$getLastCookie.coverage" NAME="getLastCookie Coverage Results" MODIFIED="1593083825308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1586688893302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/webtest$terminalDeal.coverage" NAME="terminalDeal Coverage Results" MODIFIED="1593250704836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$ExecuteTest.coverage" NAME="ExecuteTest Coverage Results" MODIFIED="1593222674710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1586686811831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/KeyWordsTest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1591535354255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1586686334707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/KeyWordsTest$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1586930515872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/webtest$test.coverage" NAME="test Coverage Results" MODIFIED="1591538156371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$AppAction.coverage" NAME="AppAction Coverage Results" MODIFIED="1593141618787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
+    <SUITE FILE_PATH="coverage/webtest$pytest_in_ttt_py.coverage" NAME="pytest in ttt.py Coverage Results" MODIFIED="1592693755559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsTest$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1591535678681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
     <SUITE FILE_PATH="coverage/webtest$getTwoCookies.coverage" NAME="getTwoCookies Coverage Results" MODIFIED="1593090156846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/KeyWordsTest$PageAction.coverage" NAME="PageAction Coverage Results" MODIFIED="1586930515872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/action" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/cv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="103" column="6" selection-start-line="103" selection-start-column="6" selection-end-line="103" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/matplotlib/offsetbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="754" column="8" selection-start-line="754" selection-start-column="8" selection-end-line="754" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getLastCookie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getTwoCookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-27/18-00-15-267003.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionpictures/2020-6-27/17-50-37-712842.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terminalDeal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/DirAndTime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/airtest/core/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="269" column="40" selection-start-line="269" selection-start-column="40" selection-end-line="269" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/syslog.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/Logger.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python/Python36/Lib/site-packages/MyQR/myqr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3204">
-          <caret line="21" column="134" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="134" />
-          <folding>
-            <element signature="e#48#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/genQrcode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/Log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/PageAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6084">
-          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util/ParseExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3384">
-          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RunTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/action/AppAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/VarConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="39" column="7" selection-start-line="39" selection-end-line="39" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScripts/ExecuteTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="128" column="40" selection-start-line="128" selection-start-column="40" selection-end-line="128" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <element signature="e#648#2107#0" />
-            <element signature="e#2225#4147#0" />
-            <element signature="e#4204#5753#0" />
-            <element signature="e#14992#14996#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScripts/TerminalSelect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <element signature="e#3083#3107#0" />
-            <element signature="e#3153#3572#0" />
-            <element signature="e#3611#5019#0" />
-            <element signature="e#5062#5573#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$TestSendMailWithAttchment.coverage" NAME="TestSendMailWithAttchment Coverage Results" MODIFIED="1586821238263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
+    <SUITE FILE_PATH="coverage/webtest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1593260156231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$getLastCookie.coverage" NAME="getLastCookie Coverage Results" MODIFIED="1593083825308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webtest$genQrcode.coverage" NAME="genQrcode Coverage Results" MODIFIED="1594565610062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1586826894446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1586674696400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/webtest$VarConfig.coverage" NAME="VarConfig Coverage Results" MODIFIED="1592835488444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
   </component>
 </project>
