@@ -32,11 +32,9 @@ class OrderTerminalFactory(object):
             linkTypeName = self.jsonDict.get("linkType",'1')
             if linkTypeName == '1':
                 FilePath = PCorderBusinessFilePath
-                casePath = os.path.split(FilePath)[0] #获取用例文件路径
                 caseStepSheetName = orderBusinessDict.get(self.jsonDict.get('orderBusinessType'))
             else:
                 FilePath = PCorderCommodityFilePath
-                casePath = os.path.split(FilePath)[0]  #获取用例文件路径
                 caseStepSheetName = orderCommodityDict.get(self.jsonDict.get('orderCommodityType'))
         elif TerminalType == '2':
             pass #增加m端读取excel文件代码
@@ -48,23 +46,18 @@ class OrderTerminalFactory(object):
             if linkTypeName == '1':
                 if TerminalexecuteScene == '1':
                     FilePath = WchatorderBusinessFilePath
-                    casePath = os.path.split(FilePath)[0] #获取用例文件路径
                 else:
                     FilePath = QQorderBusinessFilePath
-                    casePath = os.path.split(FilePath)[0]  #获取用例文件路径
                 caseStepSheetName = orderBusinessDict.get(self.jsonDict.get('orderBusinessType'))
             else:
                 if TerminalexecuteScene == '1':
                     FilePath = WchatorderCommodityFilePath
-                    casePath = os.path.split(FilePath)[0] #获取用例文件路径
                 else:
                     FilePath = QQorderCommodityFilePath
-                    casePath = os.path.split(FilePath)[0]  # 获取用例文件路径
                 caseStepSheetName = orderCommodityDict.get(self.jsonDict.get('orderCommodityType'))
         else:
             pass #后续增加跨屏操作
-        self.excelObj.loadWorkBook(FilePath)
-        return caseStepSheetName,casePath
+        return FilePath,caseStepSheetName
 
 
 class TerminalOperate(object):

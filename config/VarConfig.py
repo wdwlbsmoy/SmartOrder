@@ -34,9 +34,15 @@ testStep_runTime = 7
 testStep_testResult = 8
 testStep_errorInfo = 9
 testStep_errorPic = 10
+#获取PC端订单号定位方式、定位表达式、操作值
+expression_type = "xpath"
+expression_str = "//div[@class='my_order']/div[1]/div[2]/div"
+expression_value = "data-orderid"
 
-#要运行的移动终端序列号
+#要运行的移动终端序列号,poco对象，前端字符串
 TerminalSn = None
+TerminalPoco = None
+jsonDict = None
 appDict = {'jdapp':'','jsapp':'','qq':'','wx':'','bw':''}  #定义app字典，value为app的name
 TerminalFilePath = parentDirPath + "\\config\\mobileDevices.xlsx"
 terminal_ser = 2
