@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="">
+    <list default="true" id="8c487cdf-842e-47e3-a0fc-4cda0e667122" name="Default Changelist" comment="调整ExecuteTest">
+      <change afterPath="$PROJECT_DIR$/util/udcUtil.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/VarConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/VarConfig.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testData/pcData/orderBusinessAction.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testScripts/ExecuteTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/ExecuteTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testScripts/TerminalSelect.py" beforeDir="false" afterPath="$PROJECT_DIR$/testScripts/TerminalSelect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/genQrcode.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/genQrcode.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../newdo/webtest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,29 +51,7 @@
       <recent name="D:\John\work\airtestLearning\webtest\testScripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.genQrcode">
-    <configuration name="AppAction" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="KeyWordsFrameWork" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/action" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/action/AppAction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.udcUtil">
     <configuration name="ExecuteTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="KeyWordsFrameWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,13 +140,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="udcUtil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KeyWordsFrameWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/udcUtil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.udcUtil" />
         <item itemvalue="Python.genQrcode" />
         <item itemvalue="Python.RunTest" />
         <item itemvalue="Python.terminalDeal" />
         <item itemvalue="Python.ExecuteTest" />
-        <item itemvalue="Python.AppAction" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +218,7 @@
       <workItem from="1595851651733" duration="4115000" />
       <workItem from="1595927074599" duration="2442000" />
       <workItem from="1595998488921" duration="54000" />
-      <workItem from="1596016942062" duration="10402000" />
+      <workItem from="1596016942062" duration="22923000" />
     </task>
     <task id="LOCAL-00001" summary="new change">
       <created>1595914144955</created>
@@ -228,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595914144955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="调整ExecuteTest">
+      <created>1596077054637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596077054637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -246,12 +252,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new change" />
-    <option name="LAST_COMMIT_MESSAGE" value="new change" />
+    <MESSAGE value="调整ExecuteTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整ExecuteTest" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="498" y="98" key="CommitChangelistDialog2" timestamp="1595914139891">
+    <state x="498" y="98" key="CommitChangelistDialog2" timestamp="1596077150398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="498" y="98" key="CommitChangelistDialog2/0.0.1920.1040/-800.235.800.560@0.0.1920.1040" timestamp="1596077150398" />
     <state x="498" y="98" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595914139891" />
     <state x="632" y="260" key="FileChooserDialogImpl" timestamp="1596028755675">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -259,30 +267,34 @@
     <state x="421" y="170" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587476637216" />
     <state x="632" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-800.235.800.560@0.0.1920.1040" timestamp="1596028755675" />
     <state x="632" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595914057538" />
-    <state width="1478" height="195" key="GridCell.Tab.0.bottom" timestamp="1593002567329">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom" timestamp="1596114585747">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
     <state width="1478" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
-    <state width="1478" height="195" key="GridCell.Tab.0.center" timestamp="1593002567329">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596114585747" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center" timestamp="1596114585747">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
     <state width="1478" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
-    <state width="1478" height="195" key="GridCell.Tab.0.left" timestamp="1593002567329">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596114585747" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left" timestamp="1596114585747">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
     <state width="1478" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
-    <state width="1478" height="195" key="GridCell.Tab.0.right" timestamp="1593002567329">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596114585747" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right" timestamp="1596114585747">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1222" height="115" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587476642019" />
     <state width="1478" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593002567329" />
-    <state x="-1682" y="235" key="SettingsEditor" timestamp="1595939944650">
+    <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596114585747" />
+    <state x="-1682" y="235" key="SettingsEditor" timestamp="1596103248257">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1682" y="235" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1595939944650" />
+    <state x="-1682" y="235" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596103248257" />
     <state x="238" y="235" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595914207473" />
     <state x="-639" y="428" key="com.intellij.ide.util.TipDialog" timestamp="1595998515577">
       <screen x="-800" y="235" width="800" height="560" />
@@ -299,6 +311,7 @@
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1586688893302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/webtest$terminalDeal.coverage" NAME="terminalDeal Coverage Results" MODIFIED="1593250704836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/webtest$ExecuteTest.coverage" NAME="ExecuteTest Coverage Results" MODIFIED="1593222674710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScripts" />
+    <SUITE FILE_PATH="coverage/SmartOrder$udcUtil.coverage" NAME="udcUtil Coverage Results" MODIFIED="1596114585741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$WaitUtil.coverage" NAME="WaitUtil Coverage Results" MODIFIED="1586686811831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/KeyWordsTest$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1591535354255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$DirAndTime.coverage" NAME="DirAndTime Coverage Results" MODIFIED="1586686334707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
@@ -313,6 +326,7 @@
     <SUITE FILE_PATH="coverage/webtest$getLastCookie.coverage" NAME="getLastCookie Coverage Results" MODIFIED="1593083825308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/webtest$genQrcode.coverage" NAME="genQrcode Coverage Results" MODIFIED="1594565610062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$RunTest.coverage" NAME="RunTest Coverage Results" MODIFIED="1586826894446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SmartOrder$genQrcode.coverage" NAME="genQrcode Coverage Results" MODIFIED="1596103390209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/KeyWordsFrameWork$ObjectMap.coverage" NAME="ObjectMap Coverage Results" MODIFIED="1586674696400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
     <SUITE FILE_PATH="coverage/webtest$VarConfig.coverage" NAME="VarConfig Coverage Results" MODIFIED="1592835488444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
   </component>

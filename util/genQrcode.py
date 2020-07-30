@@ -22,5 +22,5 @@ def openQrcode(fullPath):
 if __name__ == '__main__':
     url = 'https://u.jd.com/5aRb5X'
     name = '拍子.png'
-    dirName = 'D:\\ftp'
+    dirName = 'D:\\xueruiheng'
     openQrcode(genQrcode(url,name,dirName))
